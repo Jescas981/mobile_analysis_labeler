@@ -19,6 +19,10 @@ A Flutter application for real-time mobile sensor data analysis, recording, and 
   - Export recorded sessions to CSV format.
   - Files are saved to the application's documents directory with timestamps and labels.
 
+![Chart](doc/chart.png)
+
+![Lines](doc/lines.png)
+
 ## Getting Started
 
 ### Prerequisites
