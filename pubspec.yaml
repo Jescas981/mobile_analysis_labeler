@@ -1,5 +1,5 @@
 name: mobile_analysis
-description: "A new Flutter project."
+description: "A Flutter application for real-time mobile sensor data analysis, recording, and labeling via MQTT."
 # The following line prevents the package from being accidentally published to
 # pub.dev using `flutter pub publish`. This is preferred for private packages.
 publish_to: 'none' # Remove this line if you wish to publish to pub.dev
